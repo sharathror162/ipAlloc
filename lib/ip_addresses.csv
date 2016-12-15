@@ -4,5 +4,3 @@ IP_Block,IP_Address,Device
 1.2.0.0/16,1.2.3.6,device3 
 1.2.0.0/16,1.2.128.1,device1 
 1.2.0.0/16,1.2.128.2,device2
-1.2.0.0/16,1.2.3.62,Sharath
-1.2.0.0/16,1.2.3.61,Nischal
